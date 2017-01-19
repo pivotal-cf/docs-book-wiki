@@ -1,6 +1,3 @@
-<<<<<<< d79db5e70b67296a96fc62d335cb6783c5891f8a
-# docs-book-frontpage
-=======
 #  PCF Services Documentation Book 
 
 This project can create and publish the documentation for PCF Services, PCF Partner Services, and PCF Add-ons as a web application.
@@ -125,4 +122,3 @@ or on the branch corresponding to its version number.
 
   `ref: '225'` refers to the 225 branch of the docs-cloudfoundry-concepts repo. Cloud Foundry v225 is associated with the PCF v1.6 release.
 
->>>>>>> copies services cruft'
