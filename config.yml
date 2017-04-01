@@ -1,6 +1,5 @@
 ---
 book_repo: pivotal-cf/docs-book-wiki
-layout_repo: pivotal-cf/docs-layout-repo
 
 broken_link_exclusions: iefix|arrowhead
 repo_link_enabled: true
@@ -11,7 +10,7 @@ public_host: hello
 
 products:
   - id: pcf
-    subnav_root: index.html
+    subnav_root: wiki/index.html
 
 sections:
 - repository:
