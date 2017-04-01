@@ -1,5 +1,5 @@
 ---
-book_repo: docs-book
+book_repo: pivotal-cf/docs-book-wiki
 layout_repo: pivotal-cf/docs-layout-repo
 
 broken_link_exclusions: iefix|arrowhead
@@ -11,12 +11,12 @@ public_host: hello
 
 products:
   - id: pcf
-    subnav_root: wiki/index.html
+    subnav_root: index.html
 
 sections:
 - repository:
-    name: docs-content
-  directory: wiki
+    name: pivotal-cf-experimental/docs-wiki-internal
+  directory: /
   product_id: pcf
 
 template_variables:                             # optional
