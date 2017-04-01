@@ -16,7 +16,7 @@ products:
 sections:
 - repository:
     name: pivotal-cf-experimental/docs-wiki-internal
-  directory: /
+  directory: / 
   product_id: pcf
 
 template_variables:                             # optional
