@@ -20,10 +20,19 @@ sections:
   product_id: pcf
   product_info:
     use_local_header: true
+    latest_stable_version: 1.3
     local_header_img: /images/cloud_rings.png
     local_header_title: Docs Wiki
     search_placeholder: Search Docs Wiki
     url_prefix: wiki
+    local_product_version: 1.3
+    local_header_links: []
+    local_header_version_list:
+      - url_prefix: http://docs.pivotal.io/p-identity/1-2
+        display_name: v1.2
+      - url_prefix: http://docs.pivotal.io/p-identity/1-1
+        display_name: v1.1
+
 
 template_variables:                             # optional
 
