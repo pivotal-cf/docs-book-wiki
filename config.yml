@@ -7,7 +7,7 @@ repo_link_enabled: true
 
 elastic_search: true
 
-public_host: hello
+public_host: docs-wiki.cfapps.io
 
 products:
   - id: pcf
