@@ -18,6 +18,12 @@ sections:
     name: pivotal-cf-experimental/docs-wiki-internal
   directory: wiki
   product_id: pcf
+  product_info:
+    use_local_header: true
+    local_header_img: /images/cloud_rings.png
+    local_header_title: Docs Wiki
+    search_placeholder: Search Docs Wiki
+    url_prefix: wiki
 
 template_variables:                             # optional
 
