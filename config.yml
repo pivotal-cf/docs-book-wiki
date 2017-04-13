@@ -37,3 +37,4 @@ sections:
 template_variables:                             # optional
 
 book_title: Docs Wiki
+use_global_header: true
