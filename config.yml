@@ -37,4 +37,8 @@ sections:
 template_variables:                             # optional
 
 book_title: Docs Wiki
+book_title_short: Docs Wiki
+title: <span class="title-deemph">Docs Wiki</span>
+
 use_global_header: true
+
