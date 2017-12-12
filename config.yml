@@ -29,12 +29,11 @@ sections:
     local_header_links: []
     local_header_version_list:
 
-
-template_variables:                             # optional
-
-book_title: Docs Wiki
-book_title_short: Docs Wiki
-title: <span class="title-deemph">Docs Wiki</span>
-
-use_global_header: true
+template_variables:
+  use_global_header: true
+  book_title: Pivotal Docs Wiki
+  book_title_short: Docs Wiki
+  title: <span class="title-deemph">Pivotal</span> Docs Wiki
+  title_image: images/icon-p-green.jpg
+  hero_text: "Detailed documentation for Pivotal documentarians."
 
