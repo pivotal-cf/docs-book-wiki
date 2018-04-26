@@ -29,6 +29,22 @@ sections:
     local_product_version:
     local_header_links: []
     local_header_version_list:
+- repository:
+    name: pivotal-cf-experimental/docs-wiki-internal
+    ref: new-branch
+  directory: wiki
+  product_id: pcf
+  product_info:
+    use_local_header: true
+    latest_stable_version: 1.0
+    local_header_img: /images/cloud_rings.png
+    local_header_title: Docs Wiki
+    search_placeholder: Search Docs Wiki
+    url_prefix: wiki
+    local_product_version:
+    local_header_links: []
+    local_header_version_list:
+
 
 template_variables:
   use_global_header: true
