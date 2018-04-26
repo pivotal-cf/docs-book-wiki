@@ -32,7 +32,7 @@ sections:
 - repository:
     name: pivotal-cf-experimental/docs-wiki-internal
     ref: new-branch
-  directory: wiki
+  directory: wiki-new
   product_id: pcf
   product_info:
     use_local_header: true
@@ -40,7 +40,7 @@ sections:
     local_header_img: /images/cloud_rings.png
     local_header_title: Docs Wiki
     search_placeholder: Search Docs Wiki
-    url_prefix: wiki
+    url_prefix: wiki-new
     local_product_version:
     local_header_links: []
     local_header_version_list:
