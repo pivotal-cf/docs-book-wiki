@@ -52,5 +52,5 @@ template_variables:
   book_title_short: Docs Wiki
   title: <span class="title-deemph">Pivotal</span> Docs Wiki
   title_image: images/icon-p-green.jpg
-  hero_text: "Detailed documentation for Pivotal documentarians."
+  hero_text: "Detailed documentation for Pivotal documentarians and their friends."
 
