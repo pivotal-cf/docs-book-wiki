@@ -11,14 +11,14 @@ elastic_search: true
 public_host: docs-wiki.cfapps.io
 
 products:
-  - id: pcf
+  - id: all
     subnav_root: wiki/index.html
 
 sections:
 - repository:
     name: pivotal-cf-experimental/docs-wiki-internal
   directory: wiki
-  product_id: pcf
+  product_id: all
   product_info:
     use_local_header: true
     latest_stable_version: 1.0
