@@ -6,7 +6,7 @@ layout_repo_ref: master
 broken_link_exclusions: iefix|arrowhead
 repo_link_enabled: true
 
-elastic_search: false
+elastic_search: true
 
 public_host: docs-wiki.cfapps.io
 
